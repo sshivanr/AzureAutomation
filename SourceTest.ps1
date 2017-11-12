@@ -1,1 +1,1 @@
-Write-Output “Azure Automation Rocks Harder - with GitHub!”
+Write-Output “Azure Automation with GitHub!”
